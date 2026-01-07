@@ -9,7 +9,7 @@
 |Singly Linear         SinglyLLLnode                               SinglyLLL                            Done              |
 |Singly Circular       SinglyCLLnode                               SinglyCLL                            Done              |
 |Doubly Linear         DoblyLLLnode                                DoblyLLL                             Done              |
-|Doubly Circular       DoublyCLLnode                               DoublyCLL                                              |
+|Doubly Circular       DoublyCLLnode                               DoublyCLL                            Done              |
 ---------------------------------------------------------------------------------------------------------------------------
 */
 
